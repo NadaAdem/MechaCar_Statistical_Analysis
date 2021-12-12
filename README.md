@@ -19,8 +19,10 @@ The purpose of this project is to identify which variables can predict the MPG o
 
 ## T-Tests on Suspension Coils
 
-
+###  T-Test Across All Manufacturing Lots
 ![image](https://github.com/NadaAdem/MechaCar_Statistical_Analysis/blob/main/Resources/test.png)
+
+###
 ![image](https://github.com/NadaAdem/MechaCar_Statistical_Analysis/blob/main/Resources/testlot1.png)
 ![image](https://github.com/NadaAdem/MechaCar_Statistical_Analysis/blob/main/Resources/testlot2.png)
 ![image](https://github.com/NadaAdem/MechaCar_Statistical_Analysis/blob/main/Resources/testlot3.png)
