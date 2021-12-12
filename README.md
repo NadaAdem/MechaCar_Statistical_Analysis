@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-The purpose of this project is to identify which variables can predict the MPG of a car prototype, "MechaCar", for the fictional company AutosRUs. Summary statistics are generated and t-tests are performed for individual manufacturing lots. Finally, a study is designed to compare MechaCar to the competition. R and tidyverse are used to accomplish this analysis.
-
+The purpose of this project is using R for AutosRUs company  has newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress.The data analytics team to review the production data for insights and  predict  that may help the manufacturing . Summary statistics are generated and t-tests are performed for individual manufacturing lots. Finally, a study is designed to compare MechaCar to the competition.
 
 ## Linear Regression to Predict MPG
 
