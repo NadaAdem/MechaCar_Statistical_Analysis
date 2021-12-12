@@ -68,28 +68,21 @@ Manufacturing Lot 3 has a p-value of 0.04, therefore we reject the null hypothes
 
 To quantify how "MechaCar" may perform against the competition, a statistical study of metrics that maximize consumer utility can be performed. In Economics, utility represents how much usefulness or enjoyment a consumer can obtain from consumption of a good or service. In this project, the metrics that might affect the utility of a vehicle are:
 
-- Safety Feature Rating: Independent Variable
-- Current Price (Selling): Dependent Variable
-- Drive Package : Independent Variable
-- Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
-- Resale Value: Independent Variable
-- Average Annual Cost of ownership (Maintenance): Independent Variable
-- MPG (Gasoline Efficiency): Independent Variable
+- Purchase Price
+- Fuel Efficiency (Highway and City)
+- Maintenance Cost
+- Safety Ratings
+- Horsepower
+- Storage Capacity
 
 ### The null hypothesis and alternative hypothesis for this proposed study are as follows:
-
-- Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre.
-- Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
+- Ho: MechaCar would have high consumer utility and would perform well against competitors.
+- Ha: MechaCar would not have high consumer utility and would not perform well against competitors.
 
 
 
 ### Statistical Tests
-
-A multiple linear regression would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price (it may be all of them!)
-
-
 After gathering the necessary data for the metrics listed above, Multiple Linear Regressions would be used to identify the statistically significant variables that affect sales of similar vehicles. The performace of MechaCar in these important categories will be compared to the mean performace of competitors through the analysis of variance (ANOVA) test.
 
 If it is found that MechaCar would have high consumer utility and would perform well when positioned against competing vehicles, it is recommended to manufacture MechaCar. Otherwise, if the null hypothesis is rejected, it is not recommend to manufacture MechaCar.
-
 
