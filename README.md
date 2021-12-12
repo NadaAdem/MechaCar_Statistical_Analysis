@@ -15,7 +15,6 @@ The purpose of this project is to identify which variables can predict the MPG o
 ![image](https://github.com/NadaAdem/MechaCar_Statistical_Analysis/blob/main/Resources/d3.png )
 
 This very simple boxplot illustrates the differences between the lots:
-![image](https://github.com/NadaAdem/MechaCar_Statistical_Analysis/blob/main/Resources/plot1.png)
 ![image](https://github.com/NadaAdem/MechaCar_Statistical_Analysis/blob/main/Resources/plot2.png)
 
 
