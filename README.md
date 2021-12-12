@@ -10,6 +10,11 @@ The purpose of this project is to identify which variables can predict the MPG o
 
 ## Summary Statistics on Suspension Coils
 
+![image](https://github.com/NadaAdem/MechaCar_Statistical_Analysis/blob/main/Resources/d4.png )
+
+![image](https://github.com/NadaAdem/MechaCar_Statistical_Analysis/blob/main/Resources/d3.png )
+
+
 
 
 ## T-Tests on Suspension Coils
